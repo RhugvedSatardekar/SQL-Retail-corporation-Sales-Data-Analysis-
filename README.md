@@ -1,5 +1,5 @@
 
-# Walmart Sales Database Analysis
+# Retail corporation company Sales Database Analysis
 
 This repository contains SQL queries and analysis for the Walmart sales database. The database includes sales data with various attributes such as invoice ID, branch, city, customer type, gender, product line, unit price, quantity, tax percentage, total, date, time, payment method, COGS, gross margin percentage, gross income, and customer ratings.
 
